@@ -1,0 +1,16 @@
+streamlit
+chromadb
+llama-index
+langchain
+langchain-community
+sentence-transformers
+transformers
+pillow
+pypdf
+scikit-learn
+numpy
+ transformers 
+ torch 
+ torchvision 
+ pillow
+

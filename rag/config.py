@@ -1,0 +1,7 @@
+# config.py
+CHROMA_PERSIST_DIR = "chromadb_storage"
+CHROMA_IMAGE_COLLECTION = "laptop_images"
+CHROMA_TEXT_COLLECTION = "laptop_texts"
+IMAGE_FOLDER = "data/images"
+TEXT_FOLDER = "data/documents"
+EMBED_MODEL_NAME = "clip"
